@@ -23,7 +23,7 @@ const customer = {
   },
 };
 
-// Testing the methods
+// Testing
 customer.setDiscount(0.15);
 console.log(customer.getDiscount());
 customer.addOrder(5000, 'Steak');
